@@ -15,7 +15,7 @@ Deverá comprimir a pasta src do projeto em .zip e realizar a entrega no Blackbo
 Somente um integrante do grupo deve enviar a atividade com o nome de todos que participaram.
 IMPORTANTE! Junto com o arquivo (código fonte), sugerimos enviar um vídeo de no máximo 2 minutos, apresentando/demonstrando o funcionamento do seu trabalho. Ele deverá ser publicado no Youtube como não listado e o link encaminhado junto com a postagem do código fonte. Esse material extra é interessante, pois demonstra o funcionamento do seu código. Porém, o código fonte é obrigatório e ele será avaliado na atividade.
 O que será avaliado na atividade:
-Nó:  
+#Nó:  
 Deverá possuir uma variável inteira e um objeto do mesmo tipo da classe, além dos métodos de get, set e próximo elemento.
 Lista:
 Deverá ter um objeto com o endereço do primeiro elemento da lista.
