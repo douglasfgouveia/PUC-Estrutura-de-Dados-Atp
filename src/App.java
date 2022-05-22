@@ -15,7 +15,7 @@ public class App {
     public static void main(String[] args) throws ListaVaziaException {
     	No no;
         Lista l = new Lista();
-        l.toString();
+        
         l.insereUltimo(12);
         l.insereUltimo(103);
         l.insereUltimo(1040);
